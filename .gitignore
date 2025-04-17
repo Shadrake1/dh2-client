@@ -4,6 +4,7 @@ Thumbs.db
 npm-debug.log
 package-lock.json
 /config/
+/caches/
 /vendor/
 
 /play.pokemonshowdown.com/sprites/
