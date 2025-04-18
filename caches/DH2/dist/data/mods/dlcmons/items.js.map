@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../data/mods/dlcmons/items.ts"],
+  "sourcesContent": ["export const Items: {[itemid: string]: ModdedItemData} = {\r\n};\r\n"],
+  "mappings": ";;;;;;;;;;;;;;;;;;AAAA;AAAA;AAAA;AAAA;AAAA;AAAO,MAAM,QAA4C,CACzD;",
+  "names": []
+}
