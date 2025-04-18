@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["../../../../data/mods/pmcm/items.ts"],
-  "sourcesContent": ["export const Items: {[itemid: string]: ModdedItemData} = {\r\n\tbigroot: {\r\n\t  inherit: true,\r\n\t\tonTryHealPriority: 1,\r\n\t  onTryHeal(damage, target, source, effect) {\r\n\t\tconst heals = ['drain', 'leechseed', 'ingrain', 'aquaring', 'strengthsap'];\r\n\t\tif (heals.includes(effect.id)) {\r\n\t\t  return this.chainModify([6144,4096]);\r\n\t\t}\r\n\t  },\r\n\t  shortDesc: \"Holder gains 1.5x HP from draining, Aqua Ring, Ingrain, Leech Seed, Strength Sap.\",\r\n\t},\r\n};\r\n  \r\n"],
-  "mappings": ";;;;;;;;;;;;;;;;;;AAAA;AAAA;AAAA;AAAA;AAAA;AAAO,MAAM,QAA4C;AAAA,EACxD,SAAS;AAAA,IACP,SAAS;AAAA,IACV,mBAAmB;AAAA,IAClB,UAAU,QAAQ,QAAQ,QAAQ,QAAQ;AAC3C,YAAM,QAAQ,CAAC,SAAS,aAAa,WAAW,YAAY,aAAa;AACzE,UAAI,MAAM,SAAS,OAAO,EAAE,GAAG;AAC7B,eAAO,KAAK,YAAY,CAAC,MAAK,IAAI,CAAC;AAAA,MACrC;AAAA,IACC;AAAA,IACA,WAAW;AAAA,EACb;AACD;",
-  "names": []
-}

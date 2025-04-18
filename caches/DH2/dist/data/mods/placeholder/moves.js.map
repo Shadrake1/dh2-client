@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["../../../../data/mods/placeholder/moves.ts"],
-  "sourcesContent": ["export const Moves: {[moveid: string]: ModdedMoveData} = {\r\n\t/*\r\n\tplaceholder: {\r\n\t\tname: \"\",\r\n\t\ttype: \"\",\r\n\t\tcategory: \"\",\r\n\t\tbasePower: 0,\r\n\t\taccuracy: 100,\r\n\t\tpp: 10,\r\n\t\tshortDesc: \"\",\r\n\t\tpriority: 0,\r\n\t\tflags: {protect: 1, mirror: 1, metronome: 1},\r\n\t\tonPrepareHit(target, pokemon, move) {\r\n\t\t\tthis.attrLastMove('[still]');\r\n\t\t\tthis.add('-anim', pokemon, \"\", target);\r\n\t\t},\r\n\t\tsecondary: null,\r\n\t\ttarget: \"normal\",\r\n\t},\r\n\t*/\r\n};\r\n"],
-  "mappings": ";;;;;;;;;;;;;;;;;;AAAA;AAAA;AAAA;AAAA;AAAA;AAAO,MAAM,QAA4C;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;AAoBzD;",
-  "names": []
-}

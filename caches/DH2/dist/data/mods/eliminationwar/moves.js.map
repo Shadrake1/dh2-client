@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["../../../../data/mods/eliminationwar/moves.ts"],
-  "sourcesContent": ["export const Moves: {[k: string]: ModdedMoveData} = {\r\n\tblazingtorque: {\r\n\t\tinherit: true,\r\n\t\tisNonstandard: null,\r\n\t},\r\n\twickedtorque: {\r\n\t\tinherit: true,\r\n\t\tisNonstandard: null,\r\n\t},\r\n\tnoxioustorque: {\r\n\t\tinherit: true,\r\n\t\tisNonstandard: null,\r\n\t},\r\n\tcombattorque: {\r\n\t\tinherit: true,\r\n\t\tisNonstandard: null,\r\n\t},\r\n\tmagicaltorque: {\r\n\t\tinherit: true,\r\n\t\tisNonstandard: null,\r\n\t},\r\n};\r\n"],
-  "mappings": ";;;;;;;;;;;;;;;;;;AAAA;AAAA;AAAA;AAAA;AAAA;AAAO,MAAM,QAAuC;AAAA,EACnD,eAAe;AAAA,IACd,SAAS;AAAA,IACT,eAAe;AAAA,EAChB;AAAA,EACA,cAAc;AAAA,IACb,SAAS;AAAA,IACT,eAAe;AAAA,EAChB;AAAA,EACA,eAAe;AAAA,IACd,SAAS;AAAA,IACT,eAAe;AAAA,EAChB;AAAA,EACA,cAAc;AAAA,IACb,SAAS;AAAA,IACT,eAAe;AAAA,EAChB;AAAA,EACA,eAAe;AAAA,IACd,SAAS;AAAA,IACT,eAAe;AAAA,EAChB;AACD;",
-  "names": []
-}

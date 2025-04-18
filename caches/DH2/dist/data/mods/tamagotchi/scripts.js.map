@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["../../../../data/mods/tamagotchi/scripts.ts"],
-  "sourcesContent": ["export const Scripts: ModdedBattleScriptsData = {\r\n\tgen: 9,\r\n\tteambuilderConfig: {\r\n\t\t// for micrometas to only show custom tiers\r\n\t\texcludeStandardTiers: true,\r\n\t\t// only to specify the order of custom tiers\r\n\t\tcustomTiers: ['Go! Go! Tamagotchi!', 'Go! Go! Tamagotchi! Doubles'],\r\n\t},\r\n};\r\n"],
-  "mappings": ";;;;;;;;;;;;;;;;;;AAAA;AAAA;AAAA;AAAA;AAAA;AAAO,MAAM,UAAmC;AAAA,EAC/C,KAAK;AAAA,EACL,mBAAmB;AAAA;AAAA,IAElB,sBAAsB;AAAA;AAAA,IAEtB,aAAa,CAAC,uBAAuB,6BAA6B;AAAA,EACnE;AACD;",
-  "names": []
-}

@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["../../../../data/mods/dlcmons/conditions.ts"],
-  "sourcesContent": ["export const Conditions: {[k: string]: ConditionData} = {\r\n\ttwoturnmove: {\r\n\t\tinherit: true,\r\n\t\tonSwitchOut(pokemon) {\r\n\t\t\tpokemon.removeVolatile('twoturnmove');\r\n\t\t},\r\n\t},\r\n};"],
-  "mappings": ";;;;;;;;;;;;;;;;;;AAAA;AAAA;AAAA;AAAA;AAAA;AAAO,MAAM,aAA2C;AAAA,EACvD,aAAa;AAAA,IACZ,SAAS;AAAA,IACT,YAAY,SAAS;AACpB,cAAQ,eAAe,aAAa;AAAA,IACrC;AAAA,EACD;AACD;",
-  "names": []
-}

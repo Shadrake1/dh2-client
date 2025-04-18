@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["../../../../data/mods/placeholder/abilities.ts"],
-  "sourcesContent": ["export const Abilities: {[k: string]: ModdedAbilityData} = {\r\n\t/*\r\n\tplaceholder: {\r\n\t\t\r\n\t\tflags: {},\r\n\t\tname: \"\",\r\n\t\tshortDesc: \"\",\r\n\t},\r\n\t*/\r\n};\r\n"],
-  "mappings": ";;;;;;;;;;;;;;;;;;AAAA;AAAA;AAAA;AAAA;AAAA;AAAO,MAAM,YAA8C;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;AAS3D;",
-  "names": []
-}

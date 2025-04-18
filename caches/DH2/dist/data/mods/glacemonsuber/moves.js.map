@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["../../../../data/mods/glacemonsuber/moves.ts"],
-  "sourcesContent": ["export const Moves: { [moveid: string]: ModdedMoveData; } = {\r\n};\r\n"],
-  "mappings": ";;;;;;;;;;;;;;;;;;AAAA;AAAA;AAAA;AAAA;AAAA;AAAO,MAAM,QAA+C,CAC5D;",
-  "names": []
-}
