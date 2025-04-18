@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../data/mods/glacemonsuber/items.ts"],
+  "sourcesContent": ["export const Items: { [k: string]: ModdedItemData; } = {\r\n};\r\n"],
+  "mappings": ";;;;;;;;;;;;;;;;;;AAAA;AAAA;AAAA;AAAA;AAAA;AAAO,MAAM,QAA0C,CACvD;",
+  "names": []
+}

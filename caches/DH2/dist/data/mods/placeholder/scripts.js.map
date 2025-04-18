@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../data/mods/placeholder/scripts.ts"],
+  "sourcesContent": ["import {Dex} from '../../../sim/dex';\r\nexport const Scripts: {[k: string]: ModdedBattleScriptsData} = {\r\n\tgen: 9,\r\n\tteambuilderConfig: {\r\n\t\t// for micrometas to only show custom tiers\r\n\t\texcludeStandardTiers: true,\r\n\t\t// only to specify the order of custom tiers\r\n\t\tcustomTiers: ['placeholder'],\r\n\t},\t\r\n\t\r\n\tinit() {\r\n\t\r\n\t},\r\n};"],
+  "mappings": ";;;;;;;;;;;;;;;;;;AAAA;AAAA;AAAA;AAAA;AAAA;AACO,MAAM,UAAkD;AAAA,EAC9D,KAAK;AAAA,EACL,mBAAmB;AAAA;AAAA,IAElB,sBAAsB;AAAA;AAAA,IAEtB,aAAa,CAAC,aAAa;AAAA,EAC5B;AAAA,EAEA,OAAO;AAAA,EAEP;AACD;",
+  "names": []
+}

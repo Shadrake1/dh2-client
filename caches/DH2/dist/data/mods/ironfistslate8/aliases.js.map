@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../data/mods/ironfistslate8/aliases.ts"],
+  "sourcesContent": ["export const Aliases: {[alias: string]: string} = {\r\n\tcuddle: null,\r\n};\r\n"],
+  "mappings": ";;;;;;;;;;;;;;;;;;AAAA;AAAA;AAAA;AAAA;AAAA;AAAO,MAAM,UAAqC;AAAA,EACjD,QAAQ;AACT;",
+  "names": []
+}

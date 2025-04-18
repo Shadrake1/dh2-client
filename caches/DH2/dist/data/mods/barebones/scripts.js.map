@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../data/mods/barebones/scripts.ts"],
+  "sourcesContent": ["export const Scripts: {[k: string]: ModdedBattleScriptsData} = {\r\n\tgen: 9,\r\n\tteambuilderConfig: {\r\n\t\texcludeStandardTiers: true,\r\n\t\tcustomTiers: ['bbones'],\r\n\t\tcustomDoublesTiers: ['bbones'],\r\n\t},\r\n};\r\n\r\n"],
+  "mappings": ";;;;;;;;;;;;;;;;;;AAAA;AAAA;AAAA;AAAA;AAAA;AAAO,MAAM,UAAkD;AAAA,EAC9D,KAAK;AAAA,EACL,mBAAmB;AAAA,IAClB,sBAAsB;AAAA,IACtB,aAAa,CAAC,QAAQ;AAAA,IACtB,oBAAoB,CAAC,QAAQ;AAAA,EAC9B;AACD;",
+  "names": []
+}

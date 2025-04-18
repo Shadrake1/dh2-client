@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../data/mods/glacemonsuber/abilities.ts"],
+  "sourcesContent": ["export const Abilities: { [abilityid: string]: ModdedAbilityData; } = {\r\n};\r\n"],
+  "mappings": ";;;;;;;;;;;;;;;;;;AAAA;AAAA;AAAA;AAAA;AAAA;AAAO,MAAM,YAAyD,CACtE;",
+  "names": []
+}
